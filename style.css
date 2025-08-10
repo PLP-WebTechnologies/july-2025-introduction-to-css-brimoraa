@@ -1,0 +1,48 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+/* Header */
+header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 2px solid #388E3C;
+}
+
+/* Navigation */
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+/* Cards */
+.card {
+  background-color: white;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #ddd;
+  border-top: 1px solid #aaa;
+}
+
